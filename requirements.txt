@@ -1,4 +1,5 @@
-openai
+ipython==8.10.16
+openai==1.61.1
 httpx
 python-dotenv==1.0.1
 langgraph
