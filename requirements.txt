@@ -1,9 +1,9 @@
 ipython==8.10.16
 openai==1.61.1
-httpx
+httpx==0.28.1
 python-dotenv==1.0.1
-langgraph
-langchain_openai
-langchain_community
-tavily_python
+langgraph==0.2.70
+langchain_openai==0.3.4
+langchain_community==0.3.17
+tavily_python==0.5.1
 langgraph_checkpoint_sqlite==2.0.3
