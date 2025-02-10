@@ -1,8 +1,8 @@
 openai
 httpx
-dotenv
+python-dotenv==1.0.1
 langgraph
 langchain_openai
 langchain_community
 tavily_python
-langgraph_checkpoint_sqlite
+langgraph_checkpoint_sqlite==2.0.3
